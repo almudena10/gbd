@@ -1,4 +1,4 @@
-console.log("hola mundo")
+console.log("hola mundo");
 
 let texto = "Esto es un texto";
 let numero = 25 ;
@@ -21,3 +21,4 @@ console.log(booleano);
 console.log(persona.nombre);
 console.log(persona["nombre"])
 console.log(personaArray[1])
+console.log(datos[0].paginas)
